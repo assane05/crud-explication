@@ -14,7 +14,7 @@ function FirebaseFirestore() {
   const [lname, setLname] = useState("");
   const [id, setId] = useState("");
 
-  const [show, setShow] = useState(false);
+  const [show, setShow] = useState(false); 
 
   const [val, setVal] = useState([]);
 
